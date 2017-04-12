@@ -1,39 +1,115 @@
-{
-"employee1" : {
+[
+        {
+        "name" : "Nitish Kansal",
+        "designation" : "Back End Developer",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/nitish.jpg",
+        "links" : [
+            "https://www.facebook.com/tanu.kansal",
+            "https://github.com/nitishkansal" ,
+            "https://www.linkedin.com/in/nitish-kansal-57111647/"
+        ]
+    }
+   
+    {
+        "name" : "Aakriti Kashyap",
+        "designation" : "Front End - Intern",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/aakriti.jpg",
+        "links" : [
+            "https://www.facebook.com/aakriti.kashyap.33",
+            "https://github.com/Aakriti94",
+            "https://www.linkedin.com/in/aakriti-kashyap-2a134359/"
+        ]
+    },
+
+
+    {
         "name" : "Ravi Dhiman",
         "designation" : "Front End Developer",
-        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application.",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
         "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/ravi.jpg",
         "links" : [
-            { "facebook" : "https://www.facebook.com/dhiman90"},
-            { "github" : "https://github.com/ravid7000" },
-            { "linkedin" : "https://www.linkedin.com/in/ravidhiman17/" }
+            "https://www.facebook.com/dhiman90",
+            "https://github.com/ravid7000",
+            "https://www.linkedin.com/in/ravidhiman17/"
         ]
     },
 
 
-    "employee2" : {
+    {
         "name" : "Sanyam Bansal",
         "designation" : "Back End Developer",
-        "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
         "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/sanyam.jpg",
         "links" : [
-            { "facebook" : "https://www.facebook.com"},
-            { "github" : "https://github.com/sanyam199" },
-            { "linkedin" : "https://www.linkedin.com/in/sanyam76/" }
+            "https://www.facebook.com",
+            "https://github.com/sanyam199" ,
+            "https://www.linkedin.com/in/sanyam76/"
         ]
     },
 
 
-    "employee3" : {
+    {
         "name" : "Pankul Mittal",
         "designation" : "Back End Developer",
-        "description" : "Back-End Developer for web and mobile applications, who is responsible for server-side web application logic and integration of the work front-end developers do.",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
         "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/pankul.jpg",
         "links" : [
-            { "facebook" : "https://www.facebook.com"},
-            { "github" : "https://github.com/Pankul-Mittal" },
-            { "linkedin" : "https://www.linkedin.com/" }
+            "https://www.facebook.com",
+            "https://github.com/Pankul-Mittal",
+            "https://www.linkedin.com/"
         ]
     },
-};
+
+
+    {
+        "name" : "Eshaan Ravish",
+        "designation" : "Phython Developer",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/eshaan.jpg",
+        "links" : [
+            "https://www.facebook.com/eshaan.ravish",
+            "https://github.com/ravisheshaan",
+            "https://www.linkedin.com/in/eshaan-ravish-7a573567/"
+        ]
+    },
+
+
+    {
+        "name" : "Lakshay Lakhani",
+        "designation" : "Back End Development",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/lakshay.jpg",
+        "links" : [
+            "https://www.facebook.com/",
+            "https://github.com/",
+            "https://www.linkedin.com"
+        ]
+    },
+
+
+    {
+        "name" : "Ankit Bhati",
+        "designation" : "Back End - Intern",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/ankit.jpg",
+        "links" : [
+            "https://www.facebook.com/",
+            "https://github.com/",
+            "https://www.linkedin.com"
+        ]
+    },
+
+    {
+        "name" : "Asif Akhtar",
+        "designation" : "Back End Developer",
+        "description" : "Front-End Developer for web and mobile applications, who is motivated to combine the art of design with the art of programming. Responsibilities include translation of the UI/UX design wireframes to actual code that produce visual elements of the application. I work with the UI/UX designer and bridge the gap.",
+        "image" : "https://tas-dp-prod-media.s3.amazonaws.com/profiles/asif.jpg",
+        "links" : [
+            "https://www.facebook.com/asif.akhtar.7106",
+            "https://github.com/asif1011",
+            "https://www.linkedin.com/in/asif-akhtar-83b7a195/"
+        ]
+    },
+]
